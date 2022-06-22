@@ -1,0 +1,9 @@
+[[SBML]]
+arch = "x86_64"
+git-tree-sha1 = "74ed7b5f100970edf297fc483052ae1ebffb4866"
+libc = "glibc"
+os = "linux"
+
+    [[SBML.download]]
+    sha256 = "20939e2d0a6314eddbea0c12b7b5717ecdd964c7d4535fc934c6df0c3408f069"
+    url = "https://github.com/giordano/SBML_jll.jl/releases/download/SBML-v5.19.5+2/SBML.v5.19.5.x86_64-linux-gnu.tar.gz"
